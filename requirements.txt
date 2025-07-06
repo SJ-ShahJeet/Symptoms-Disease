@@ -1,0 +1,10 @@
+fastapi
+pydantic
+uvicorn
+streamlit
+requests
+pandas
+torch
+sentence-transformers
+nltk
+scikit-learn
